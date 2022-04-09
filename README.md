@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob.gif?1531849430" width="30"/> Welcome.</h1>
 
 
 <p> You're welcome! </br> Here is Andreas Magalhaes, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Moncton, New Brunswick</b></p>
