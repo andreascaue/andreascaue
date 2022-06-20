@@ -1,7 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Welcome.</h1>
 
 
-<p> You're welcome! </br> Here is Andreas Magalhaes, Fullstack developer from <i class="fa-brands fa-canadian-maple-leaf"></i> <b>Moncton, New Brunswick - Canada</b></p>
+<p> 
+  You're welcome! </br> 
+  Here is Andreas Magalhaes, Fullstack developer from <i class="fa-brands fa-canadian-maple-leaf"></i> 
+  <b>Moncton, New Brunswick - Canada   <img alt="Canada" src="https://slackmojis.com/emojis/55609-canada_ecoin/download" style="width: 30px; height: 24px;" width="200" height="44"/>    </b></p>
 <h3>I'm learning, Coding, Interested with:</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> 
@@ -49,18 +52,30 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/andreascaue/><b>Projects</b></a></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><b><a href="https://github.com/andreascaue/valet" target="_blank"><img alt="valet" src="https://img.shields.io/badge/valet-project-blue.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  </b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
     </tr>	      
   </tbody>
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://andreascaue.com"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Andreas Magalhaes</b></a><br/><i>Welcome!.</i></li> 
+  <li>    
+    <a href="https://andreascaue.com">
+      <b>
+        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
+          Andreas Magalhaes
+      </b>
+    </a><br/>
+    <i>Welcome!.</i>
+  </li> 
 </ul>
 <h3>Look for me!</h3>
-<p><a href="https://github.com/andreascaue" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/andreascaue" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/andreascaue/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://andreascaue.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p>
+  <a href="https://github.com/andreascaue" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/andreascaue" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/andreascaue/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://andreascaue.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
