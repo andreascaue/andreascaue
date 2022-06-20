@@ -53,10 +53,10 @@
   <tbody>
     <tr>
       <td><b><a href="https://github.com/andreascaue/valet" target="_blank"><img alt="valet" src="https://img.shields.io/badge/valet-project-blue.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  </b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>⭐ </b></td>
+      <td><b>📚 </b></td>
+      <td><b>🛎 </b></td>
+      <td><b>📬 </b></td>
     </tr>	      
   </tbody>
 </table>
