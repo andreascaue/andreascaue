@@ -31,7 +31,7 @@
   
   <img alt="Azure" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />                                                                                                       
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-   <img alt="Azure" src=https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
+  <img alt="hyperledger" src="https://img.shields.io/badge/hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" />
   
  
 
