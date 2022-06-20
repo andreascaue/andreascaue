@@ -9,8 +9,7 @@
   <img alt=".NET" src="https://img.shields.io/badge/.net-%2307405e.svg?style=flat-square&logo=net&logoColor=white" />
   <img alt="SQLServer" src="https://img.shields.io/badge/sqlserver-%2307405e.svg?style=flat-square&logo=sqlserver&logoColor=white" />  
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
-  <img alt="Angular" src="https://img.shields.io/badge/angular-%2307405e.svg?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />   
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />  
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
