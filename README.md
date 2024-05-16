@@ -7,7 +7,7 @@
   <b>Moncton, New Brunswick - Canada   <img alt="Canada" src="https://slackmojis.com/emojis/55609-canada_ecoin/download" style="width: 30px; height: 24px;" width="200" height="44"/>    </b></p>
 <h3>I'm learning, Coding, Interested with:</h3>
 <p>
-  <img alt="Blockchain" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Blockchain&logoColor=red" /> 
+  <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain?style=flat-square&logo=Blockchain&logoColor=red" /> 
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
