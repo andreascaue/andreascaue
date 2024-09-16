@@ -5,7 +5,7 @@
   You're welcome! </br> 
   Here is Andreas Magalhaes, Fullstack developer from <i class="fa-brands fa-canadian-maple-leaf"></i> 
   <b>Moncton, New Brunswick - Canada   <img alt="Canada" src="https://slackmojis.com/emojis/55609-canada_ecoin/download" style="width: 30px; height: 24px;" width="200" height="44"/>    </b></p>
-<h3>I'm learning, Coding, Interested with:</h3>
+<h3>I'm learning, Coding, and Interested with:</h3>
 <p>
   <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain.com-121D33?style=flat-square&logo=c-sharp&logoColor=white" /> 
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> 
