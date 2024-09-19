@@ -27,7 +27,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <br/>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />     
-  <img alt="Azure" src="https://img.shields.io/azure-devops/build/:organization/:projectId/:definitionId" /> 
+  <img alt="Azure" src="https://img.shields.io/badge/azure-devops" /> 
   <br/>
  <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain.com-121D33?style=flat-square&logo=c-sharp&logoColor=white" /> 
 </p>
