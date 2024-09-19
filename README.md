@@ -57,11 +57,10 @@
   <li>    
     <a href="http://andreascauecm.com">
       <b>
-        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
+        <img src="https://slackmojis.com/emojis/60913-coding/download" width="20" alt="new" /> 
           Andreas Magalhaes
       </b>
     </a><br/>
-    <i>Welcome!.</i>
   </li> 
 </ul>
 <h3>Look for me!</h3>
